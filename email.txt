@@ -1,0 +1,7 @@
+paul@python.ac.kr
+alice@lg.com
+a@lg.com
+abcdefghijklmn
+smile@happy
+smile.python.ac.kr
+1alice@helloworld.com
