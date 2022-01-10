@@ -1,0 +1,8 @@
+May = {}
+May[1] = ['Alice', 'Tom', 'David', 'Peter']
+May[2] = ['Alice', 'Cindy', 'David', 'Eve', 'Peter']
+May[3] = ['Mary', 'Tom', 'Bob', 'David', 'Jenny', 'Paul', 'Cindy']
+May[4] = ['Cindy', 'David', 'Jenny', 'Bob', 'Tom']
+May[5] = ['Alice', 'David', 'Eve', 'Bob', 'Paul']
+May[6] = ['Cindy', 'David', 'Alice', 'Mary', 'Bob', 'Tom', 'Peter', 'Jenny']
+May[7] = ['Peter', 'David', 'Tom']
